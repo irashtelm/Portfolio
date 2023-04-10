@@ -1,6 +1,6 @@
 # Анализ пользовательского поведения в мобильном приложении
 
-[html](https://nbviewer.org/github/irashtelm/portfolio/blob/main/app_food_startup/app_food_startup.ipynb) с отображением графиков plotly*.
+[html](https://nbviewer.org/github/irashtelm/portfolio/blob/main/app_food_startup/app_food_startup.ipynb) с отображением графиков plotly.
 
 [ipynb](https://github.com/irashtelm/portfolio/blob/main/app_food_startup/app_food_startup.ipynb)
 
@@ -29,8 +29,7 @@
 - seaborn
 - plotly
 
-
-Этапы исследования
+## **Результат работы**
 
 Построена воронка событий, исследован путь пользователей до покупки. Проанализированы результаты A/A/B-теста введения новых шрифтов. Выявлено, что новый шрифт значительно не повлияет на поведение пользователей. Проведён исследовательский анализ данных, в ходе которого изучены:
 
