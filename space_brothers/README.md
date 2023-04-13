@@ -1,8 +1,6 @@
 # Формирование модели монетизации для мобильной игры «Космические братья»
 
-Статус проекта — завершён.
-
-[ipynb](https://github.com/irashtelm/portfolio/blob/2291a6ce126fbfb89dd5f29df62b7cb28ba5e478/space_brothers/space_brothers.ipynb)
+[ipynb](https://github.com/irashtelm/portfolio/blob/2291a6ce126fbfb89dd5f29df62b7cb28ba5e478/space_brothers/space_brothers.ipynb), статус проекта — завершён.
 
 ## **Цель исследования**
 
