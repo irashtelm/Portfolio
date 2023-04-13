@@ -1,8 +1,6 @@
 # Анализ убытков развлекательного приложения Procrastinate Pro+
 
-Статус проекта — завершён.
-
-[ipynb](https://github.com/irashtelm/portfolio/blob/main/procrastinate_pro/procrastinate_pro.ipynb)
+[ipynb](https://github.com/irashtelm/portfolio/blob/main/procrastinate_pro/procrastinate_pro.ipynb), статус проекта — завершён.
 
 ## **Цель исследования**
 
